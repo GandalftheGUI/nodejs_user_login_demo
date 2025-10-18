@@ -1,0 +1,14 @@
+[
+  {
+    "id": "demo-user-001",
+    "email": "demo@example.com",
+    "password": "$2a$10$9dSXcb0/cz1sdEpMLDzTW./ku5RiTu0V2PHpNxhmAFM4k5ESkt5PO",
+    "createdAt": "2025-10-17T21:07:00.655Z"
+  },
+  {
+    "id": "1760735329751",
+    "email": "i_remillard@yahoo.com",
+    "password": "$2a$10$hAkM9inDHP9431FRQ4u.s.YT0tOvAjg3DLMFYimtUTOd24v4nVB7C",
+    "createdAt": "2025-10-17T21:08:49.751Z"
+  }
+]
